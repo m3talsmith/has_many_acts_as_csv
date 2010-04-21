@@ -1,4 +1,4 @@
-= Summary
+.h1 Summary
 
 So what we have here is a plugin that allows you to take a collection, output a csv through helpers, and take the same formatted csv and convert it back into the collection. More details once this is released.
 
